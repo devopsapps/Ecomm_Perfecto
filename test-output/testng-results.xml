@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Home page loaded sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Home page loaded sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Home page loaded sucessfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Ecommerce test run" duration-ms="381007" started-at="2017-12-08T14:32:00Z" finished-at="2017-12-08T14:38:21Z">
+    <groups>
+    </groups>
+    <test name="Place Order" duration-ms="381007" started-at="2017-12-08T14:32:00Z" finished-at="2017-12-08T14:38:21Z">
+      <class name="com.Ecomm.framework.OrderFlow_Mobile">
+        <test-method status="PASS" signature="Addtocart_mob(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.Ecomm.framework.OrderFlow_Mobile@29ca901e]" name="Addtocart_mob" duration-ms="131083" started-at="2017-12-08T20:02:00Z" finished-at="2017-12-08T20:04:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iOS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.1.2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[iPad Air 2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Georgia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Home page loaded sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Addtocart_mob -->
+        <test-method status="PASS" signature="Checkoutcart_mob(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.Ecomm.framework.OrderFlow_Mobile@29ca901e]" name="Checkoutcart_mob" duration-ms="126676" started-at="2017-12-08T20:04:11Z" finished-at="2017-12-08T20:06:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iOS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.1.2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[iPad Air 2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Georgia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Home page loaded sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Checkoutcart_mob -->
+        <test-method status="PASS" signature="PlaceOrder_mob(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.Ecomm.framework.OrderFlow_Mobile@29ca901e]" name="PlaceOrder_mob" duration-ms="123211" started-at="2017-12-08T20:06:18Z" finished-at="2017-12-08T20:08:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iOS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11.1.2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[iPad Air 2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Georgia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Home page loaded sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PlaceOrder_mob -->
+      </class> <!-- com.Ecomm.framework.OrderFlow_Mobile -->
+    </test> <!-- Place Order -->
+  </suite> <!-- Ecommerce test run -->
+</testng-results>
